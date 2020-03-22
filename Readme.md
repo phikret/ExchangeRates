@@ -21,11 +21,7 @@ http://localhost:51446/api/v1/rates?dates=2018-02-01,2018-02-15,2018-03-01&base=
 
 All filtering parameters are passed through the query string.
 
-## Authors
-
-* **Fikret Pašović** - [Phikret](https://github.com/Phikret)
-
-##Sample API JSON response
+## Sample API JSON response
 
 ```
 {
@@ -47,3 +43,9 @@ All filtering parameters are passed through the query string.
     "error": ""
 }
 ```
+
+## Authors
+
+* **Fikret Pašović** - [Phikret](https://github.com/Phikret)
+
+
