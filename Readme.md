@@ -11,7 +11,7 @@ In order for app to work on your local machine, ASP.NET Core Runtime should be i
 ```
 https://dotnet.microsoft.com/download/dotnet-core/2.1
 ```
-### Calling webservie
+### Calling webservice
 
 Endpoint URL and sample call is given below:
 
