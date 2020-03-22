@@ -1,0 +1,17 @@
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\EchangeRates.deps.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\EchangeRates.runtimeconfig.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\EchangeRates.runtimeconfig.dev.json
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\EchangeRates.dll
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\bin\Debug\netcoreapp2.1\EchangeRates.pdb
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.csproj.CoreCompileInputs.cache
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.RazorAssemblyInfo.cache
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.RazorAssemblyInfo.cs
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.AssemblyInfoInputs.cache
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.AssemblyInfo.cs
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.RazorTargetAssemblyInfo.cache
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.dll
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.pdb
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.genruntimeconfig.cache
