@@ -1,0 +1,45 @@
+{
+	"info": {
+		"_postman_id": "558cbe2f-6958-43a4-8f59-8040b76d4034",
+		"name": "Exchange rates",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "EchangeRatesTask",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:51446/api/v1/rates?dates=2018-02-01,2018-02-15,2018-03-01&base=SEK&target=NOK",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51446",
+					"path": [
+						"api",
+						"v1",
+						"rates"
+					],
+					"query": [
+						{
+							"key": "dates",
+							"value": "2018-02-01,2018-02-15,2018-03-01"
+						},
+						{
+							"key": "base",
+							"value": "SEK"
+						},
+						{
+							"key": "target",
+							"value": "NOK"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
