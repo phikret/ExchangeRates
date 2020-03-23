@@ -15,3 +15,4 @@ C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\Ec
 C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.dll
 C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.pdb
 C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.genruntimeconfig.cache
+C:\Users\E6440\source\repos\EchangeRates\EchangeRates\obj\Debug\netcoreapp2.1\EchangeRates.csprojAssemblyReference.cache
