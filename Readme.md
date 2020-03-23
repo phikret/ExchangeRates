@@ -26,20 +26,16 @@ All filtering parameters are passed through the query string.
 ```
 {
     "min": {
-        "date": "2018-03-01T00:00:00",
-        "rates": {
-            "NOK": 0.95468694
-        },
-        "base": "SEK"
+        "date": "2019-05-21",
+        "currency": "NOK",
+        "rate": 0.908764362
     },
     "max": {
-        "date": "2018-02-15T00:00:00",
-        "rates": {
-            "NOK": 0.9815487
-        },
-        "base": "SEK"
+        "date": "2018-02-01",
+        "currency": "NOK",
+        "rate": 0.9762828
     },
-    "avg": 0.97083950042724609,
+    "avg": 0.93211507797241211,
     "error": ""
 }
 ```
